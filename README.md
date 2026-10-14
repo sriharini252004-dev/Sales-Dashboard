@@ -19,7 +19,7 @@ I’m excited to share my Sales Analytics Dashboard project, built to turn raw s
 - Building responsive data visualizations
 
 🔗 **GitHub Repository:**  
-https://github.com/sriharini252004-dev/sales-dashboard
+https://github.com/sriharini252004-dev/Sales-Dashboard.git
 
 🌐 **Live Demo:** [Add your deployed Vercel link here]
 
