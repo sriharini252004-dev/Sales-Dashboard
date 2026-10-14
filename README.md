@@ -21,7 +21,7 @@ I’m excited to share my Sales Analytics Dashboard project, built to turn raw s
 🔗 **GitHub Repository:**  
 https://github.com/sriharini252004-dev/Sales-Dashboard.git
 
-🌐 **Live Demo:** [Add your deployed Vercel link here]
+🌐 **Live Demo:** [https://sales-dashboard-seven-psi.vercel.app/]
 
 I’m a fresher actively looking for **Frontend Developer / React Developer Internship opportunities**. I’m eager to learn, improve my skills, and contribute to real-world projects.
 
