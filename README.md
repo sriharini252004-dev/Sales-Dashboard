@@ -1,16 +1,30 @@
-# React + Vite
+🚀 **Built a Sales Analytics Dashboard using React.js!**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I’m excited to share my Sales Analytics Dashboard project, built to turn raw sales data into meaningful insights through a clean, interactive, and responsive admin dashboard.
 
-Currently, two official plugins are available:
+✨ **Key Features:**
+📊 Summary cards for revenue, orders, and visitors  
+📈 Monthly sales vs. orders bar chart  
+🍩 Traffic sources donut chart  
+🔍 Searchable and sortable orders table with pagination  
+🌙 Dark mode and light mode  
+📱 Responsive design with a mobile-friendly sidebar  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🛠️ **Tech Stack:** React.js | Tailwind CSS | Recharts
 
-## React Compiler
+💡 **What I Learned:**
+- Managing state using React Hooks
+- Implementing search, sorting, and pagination
+- Optimizing table calculations using `useMemo`
+- Building responsive data visualizations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 **GitHub Repository:**  
+https://github.com/sriharini252004-dev/sales-dashboard
 
-## Expanding the ESLint configuration
+🌐 **Live Demo:** [Add your deployed Vercel link here]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I’m a fresher actively looking for **Frontend Developer / React Developer Internship opportunities**. I’m eager to learn, improve my skills, and contribute to real-world projects.
+
+I’d love to hear your feedback and connect with developers and recruiters! 🙌
+
+#ReactJS #FrontendDeveloper #TailwindCSS #Recharts #WebDevelopment #ReactDeveloper #Fresher #OpenToWork
